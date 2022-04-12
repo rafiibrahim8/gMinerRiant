@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">gMiner Riant</string>
+    <string name="acc1">Accelerometer is available.</string>
+    <string name="gyro1">Gyroscope is available.</string>
+    <string name="acc0">Accelerometer is not available.</string>
+    <string name="gyro0">Gyroscope is not available.</string>
+    <string name="enterIP">Enter IP</string>
+    <string name="enterPort">Enter Port</string>
+    <string name="connect">Connect</string>
+    <string name="logTxt"><![CDATA[>>Log will appear here.]]></string>
+    <string name="disconnect">Disconnect</string>
+    <string name="notification_stop_action_text">Stop</string>
+    <string name="notification_text_title">gMiner is running.</string>
+    <string name="notification_text_content">Tap to open the app.</string>
+    <string name="running">Running</string>
+    <string name="notRunning">Not Running</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="saveOnDevice">Just save on device</string>
+</resources>
